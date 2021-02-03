@@ -1,3 +1,8 @@
+# Screenshots
+
+![Arknight - Regular](/Other/regular.png)
+![Arknight - Rhine](/Other/rhine.png)
+
 # Cara Pasang
 
 > **Salin file**
