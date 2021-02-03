@@ -8,11 +8,11 @@
 > **Salin file**
 
 - ```bash
-  git clone https://github.com/ilham25/dotfiles-aether
+  git clone https://github.com/ilham25/arknights-style-i3
   ```
 
 - ```bash
-  cd dotfiles-aether/ && cp -r {.*,*} ~/
+  cd arknights-style-i3/ && cp -r {.*,*} ~/
   ```
 
 > **Pasang Icon**
